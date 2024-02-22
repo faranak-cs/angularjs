@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { Players } from '../players';
+import { PlayersService } from '../players.service';
 
 @Component({
   selector: 'app-players',
@@ -9,12 +10,16 @@ import { Players } from '../players';
   styleUrl: './players.component.css',
 })
 export class PlayersComponent {
-  displayPlayers: boolean = false;
-  players: Players[] = [
-    { id: 101, name: 'Faran' },
-    { id: 102, name: 'ABdullah' },
-    { id: 103, name: 'Sharjeel' },
-  ];
+  displayPlayers: boolean = true;
 
-  // players: { id: number; name: string }[] = [];
+  // empty players array
+  players: Players[] = [];
+
+  // inject the service into component
+  playerService = inject(PlayersService);
+
+  // constructor to load data from injected service
+  constructor() {
+    this.players = this.playerService.getPlayers();
+  }
 }
