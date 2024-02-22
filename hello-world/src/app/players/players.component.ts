@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Players } from '../players';
 
 @Component({
   selector: 'app-players',
@@ -9,7 +10,7 @@ import { Component } from '@angular/core';
 })
 export class PlayersComponent {
   displayPlayers: boolean = false;
-  players = [
+  players: Players[] = [
     { id: 101, name: 'Faran' },
     { id: 102, name: 'ABdullah' },
     { id: 103, name: 'Sharjeel' },
