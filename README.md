@@ -11,4 +11,5 @@ This repo consists of various angular components under the single project `hello
 8. Dependency Injection
 9. Event Handling
 10. Passing Component Data with @Input()
+11. Property Binding
  
