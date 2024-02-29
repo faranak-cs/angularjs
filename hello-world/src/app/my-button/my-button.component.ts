@@ -8,6 +8,8 @@ import { Component } from '@angular/core';
   styleUrl: './my-button.component.css',
 })
 export class MyButtonComponent {
+  imageURL: string = 'assets/chess.jpg';
+
   onClick() {
     console.log('Clicked me');
   }
