@@ -3,6 +3,7 @@ import { RouterOutlet } from '@angular/router';
 import { PlayersComponent } from './players/players.component';
 import { NbaPlayersComponent } from './nba-players/nba-players.component';
 import { MyButtonComponent } from './my-button/my-button.component';
+import { ClickedButtonComponent } from './clicked-button/clicked-button.component';
 
 // metadata of component
 @Component({
@@ -13,6 +14,7 @@ import { MyButtonComponent } from './my-button/my-button.component';
     PlayersComponent,
     NbaPlayersComponent,
     MyButtonComponent,
+    ClickedButtonComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
