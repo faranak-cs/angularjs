@@ -1,5 +1,5 @@
 export interface NbaPlayers {
-  ID: number;
+  ID: string;
   NAME: string;
   TEAMCODE: string;
 }

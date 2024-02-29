@@ -1,0 +1,13 @@
+<h2>NBA Players</h2>
+<table>
+  <th>Id</th>
+  <th>Team Code</th>
+  <th>Name</th>
+  @for(player of nbaPlayers; track player.ID ){
+  <tr>
+    <td>{{ player.ID }}</td>
+    <td>{{ player.TEAMCODE }}</td>
+    <td>{{ player.NAME }}</td>
+  </tr>
+  }
+</table>
