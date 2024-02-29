@@ -1,0 +1,9 @@
+name = {{ employee.name | uppercase }}
+<br />
+tax credits = {{ employee.taxCredits | currency }}
+<br />
+credit rating = {{ employee.creditRating | number : "1.2-2" }}
+<br />
+wage = {{ employee.wage | currency : "EUR" }}
+<br />
+dob = {{ employee.dob | date : "fullDate" }} <br />

@@ -4,6 +4,7 @@ import { PlayersComponent } from './players/players.component';
 import { NbaPlayersComponent } from './nba-players/nba-players.component';
 import { MyButtonComponent } from './my-button/my-button.component';
 import { ClickedButtonComponent } from './clicked-button/clicked-button.component';
+import { EmployeeComponent } from './employee/employee.component';
 
 // metadata of component
 @Component({
@@ -15,6 +16,7 @@ import { ClickedButtonComponent } from './clicked-button/clicked-button.componen
     NbaPlayersComponent,
     MyButtonComponent,
     ClickedButtonComponent,
+    EmployeeComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
