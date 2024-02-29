@@ -1,0 +1,2702 @@
+[
+{
+    "ID": "1",
+    "NAME": "LeBron James",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "2",
+    "NAME": "James Harden",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "3",
+    "NAME": "Anthony Davis",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "4",
+    "NAME": "Russell Westbrook",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "5",
+    "NAME": "Giannis Antetokounmpo",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "6",
+    "NAME": "Damian Lillard",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "7",
+    "NAME": "Bradley Beal",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "8",
+    "NAME": "DeMar DeRozan",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "9",
+    "NAME": "Kevin Durant",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "10",
+    "NAME": "Lou Williams",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "11",
+    "NAME": "Kemba Walker",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "12",
+    "NAME": "Karl-Anthony Towns",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "13",
+    "NAME": "LaMarcus Aldridge",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "14",
+    "NAME": "Victor Oladipo",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "15",
+    "NAME": "Paul George",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "16",
+    "NAME": "CJ McCollum",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "17",
+    "NAME": "Khris Middleton",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "18",
+    "NAME": "Donovan Mitchell",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "19",
+    "NAME": "Jrue Holiday",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "20",
+    "NAME": "Tobias Harris",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "21",
+    "NAME": "Kyrie Irving",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "22",
+    "NAME": "Klay Thompson",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "23",
+    "NAME": "Andrew Wiggins",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "24",
+    "NAME": "Harrison Barnes",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "25",
+    "NAME": "Joel Embiid",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "26",
+    "NAME": "Nikola Jokic",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "27",
+    "NAME": "Jamal Murray",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "28",
+    "NAME": "Dwight Howard",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "29",
+    "NAME": "Devin Booker",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "30",
+    "NAME": "Stephen Curry",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "31",
+    "NAME": "Julius Randle",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "32",
+    "NAME": "Eric Bledsoe",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "33",
+    "NAME": "Jimmy Butler",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "34",
+    "NAME": "Dennis Schroder",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "35",
+    "NAME": "Goran Dragic",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "36",
+    "NAME": "Ben Simmons",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "37",
+    "NAME": "T.J. Warren",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "38",
+    "NAME": "Will Barton",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "39",
+    "NAME": "Kyle Lowry",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "40",
+    "NAME": "Carmelo Anthony",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "41",
+    "NAME": "Marc Gasol",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "42",
+    "NAME": "Eric Gordon",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "43",
+    "NAME": "Blake Griffin",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "44",
+    "NAME": "Kyle Kuzma",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "45",
+    "NAME": "DeMarcus Cousins",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "46",
+    "NAME": "JJ Redick",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "47",
+    "NAME": "Andre Drummond",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "48",
+    "NAME": "Gary Harris",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "49",
+    "NAME": "Taurean Prince",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "50",
+    "NAME": "Bojan Bogdanovic",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "51",
+    "NAME": "Dario Saric",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "52",
+    "NAME": "Otto Porter Jr.",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "53",
+    "NAME": "Jusuf Nurkic",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "54",
+    "NAME": "Jordan Clarkson",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "55",
+    "NAME": "Jayson Tatum",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "56",
+    "NAME": "Kristaps Porzingis",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "57",
+    "NAME": "Chris Paul",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "58",
+    "NAME": "Buddy Hield",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "59",
+    "NAME": "Steven Adams",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "60",
+    "NAME": "Dennis Smith Jr.",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "61",
+    "NAME": "Josh Richardson",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "62",
+    "NAME": "Kevin Love",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "63",
+    "NAME": "Jeremy Lamb",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "64",
+    "NAME": "Lauri Markkanen",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "65",
+    "NAME": "Clint Capela",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "66",
+    "NAME": "Aaron Gordon",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "67",
+    "NAME": "E'Twaun Moore",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "68",
+    "NAME": "Jaylen Brown",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "69",
+    "NAME": "Evan Fournier",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "70",
+    "NAME": "Josh Jackson",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "71",
+    "NAME": "Tyreke Evans",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "72",
+    "NAME": "Robert Covington",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "73",
+    "NAME": "Ricky Rubio",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "74",
+    "NAME": "Spencer Dinwiddie",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "75",
+    "NAME": "Enes Kanter",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "76",
+    "NAME": "Taj Gibson",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "77",
+    "NAME": "Tim Hardaway Jr.",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "78",
+    "NAME": "Jeff Teague",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "79",
+    "NAME": "Kentavious Caldwell-Pope",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "80",
+    "NAME": "Allen Crabbe",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "81",
+    "NAME": "DeMarre Carroll",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "82",
+    "NAME": "Jonas Valanciunas",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "83",
+    "NAME": "Michael Beasley",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "84",
+    "NAME": "Marco Belinelli",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "85",
+    "NAME": "Bobby Portis",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "86",
+    "NAME": "Jonathon Simmons",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "87",
+    "NAME": "Brook Lopez",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "88",
+    "NAME": "Serge Ibaka",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "89",
+    "NAME": "Thaddeus Young",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "90",
+    "NAME": "Kelly Oubre Jr.",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "91",
+    "NAME": "Brandon Ingram",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "92",
+    "NAME": "Rondae Hollis-Jefferson",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "93",
+    "NAME": "Derrick Favors",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "94",
+    "NAME": "Joe Ingles",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "95",
+    "NAME": "Nikola Vucevic",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "96",
+    "NAME": "Willie Cauley-Stein",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "97",
+    "NAME": "Al Horford",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "98",
+    "NAME": "DeAndre Jordan",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "99",
+    "NAME": "Dirk Nowitzki",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "100",
+    "NAME": "Austin Rivers",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "101",
+    "NAME": "Bogdan Bogdanovic",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "102",
+    "NAME": "Courtney Lee",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "103",
+    "NAME": "Terry Rozier",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "104",
+    "NAME": "Dillon Brooks",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "105",
+    "NAME": "Ish Smith",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "106",
+    "NAME": "Rodney Hood",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "107",
+    "NAME": "Justin Holiday",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "108",
+    "NAME": "Frank Kaminsky",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "109",
+    "NAME": "Kelly Olynyk",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "110",
+    "NAME": "Wayne Ellington",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "111",
+    "NAME": "Domantas Sabonis",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "112",
+    "NAME": "Nikola Mirotic",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "113",
+    "NAME": "Caris LeVert",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "114",
+    "NAME": "Zach Randolph",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "115",
+    "NAME": "Darren Collison",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "116",
+    "NAME": "Jeff Green",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "117",
+    "NAME": "Joe Harris",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "118",
+    "NAME": "De'Aaron Fox",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "119",
+    "NAME": "Tyler Johnson",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "120",
+    "NAME": "Markieff Morris",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "121",
+    "NAME": "Yogi Ferrell",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "122",
+    "NAME": "Kent Bazemore",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "123",
+    "NAME": "Montrezl Harrell",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "124",
+    "NAME": "Myles Turner",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "125",
+    "NAME": "Jamal Crawford",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "126",
+    "NAME": "Patty Mills",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "127",
+    "NAME": "Wesley Matthews",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "128",
+    "NAME": "J.J. Barea",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "129",
+    "NAME": "Elfrid Payton",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "130",
+    "NAME": "John Wall",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "131",
+    "NAME": "James Johnson",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "132",
+    "NAME": "Denzel Valentine",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "133",
+    "NAME": "Trevor Ariza",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "134",
+    "NAME": "John Collins",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "135",
+    "NAME": "Pau Gasol",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "136",
+    "NAME": "Draymond Green",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "137",
+    "NAME": "Jae Crowder",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "138",
+    "NAME": "D.J. Augustin",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "139",
+    "NAME": "Dwyane Wade",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "140",
+    "NAME": "Lance Stephenson",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "141",
+    "NAME": "Robin Lopez",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "142",
+    "NAME": "Rudy Gobert",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "143",
+    "NAME": "Hassan Whiteside",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "144",
+    "NAME": "Ersan Ilyasova",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "145",
+    "NAME": "Marvin Williams",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "146",
+    "NAME": "D'Angelo Russell",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "147",
+    "NAME": "Nicolas Batum",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "148",
+    "NAME": "Wilson Chandler",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "149",
+    "NAME": "Marcus Morris",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "150",
+    "NAME": "Trey Lyles",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "151",
+    "NAME": "Mario Hezonja",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "152",
+    "NAME": "Anthony Tolliver",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "153",
+    "NAME": "Troy Daniels",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "154",
+    "NAME": "CJ Miles",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "155",
+    "NAME": "Kris Dunn",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "156",
+    "NAME": "Reggie Bullock",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "157",
+    "NAME": "Marcin Gortat",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "158",
+    "NAME": "Jerami Grant",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "159",
+    "NAME": "Michael Kidd-Gilchrist",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "160",
+    "NAME": "Kyle Korver",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "161",
+    "NAME": "Dwight Powell",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "162",
+    "NAME": "Mike Scott",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "163",
+    "NAME": "George Hill",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "164",
+    "NAME": "John Henson",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "165",
+    "NAME": "JR Smith",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "166",
+    "NAME": "Avery Bradley",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "167",
+    "NAME": "Fred VanVleet",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "168",
+    "NAME": "Reggie Jackson",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "169",
+    "NAME": "Rudy Gay",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "170",
+    "NAME": "Dejounte Murray",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "171",
+    "NAME": "Cory Joseph",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "172",
+    "NAME": "Evan Turner",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "173",
+    "NAME": "Al-Farouq Aminu",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "174",
+    "NAME": "Shabazz Napier",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "175",
+    "NAME": "Darius Miller",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "176",
+    "NAME": "Doug McDermott",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "177",
+    "NAME": "Malcolm Brogdon",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "178",
+    "NAME": "Jerian Grant",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "179",
+    "NAME": "Dewayne Dedmon",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "180",
+    "NAME": "Ryan Anderson",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "181",
+    "NAME": "Danny Green",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "182",
+    "NAME": "Stanley Johnson",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "183",
+    "NAME": "Devin Harris",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "184",
+    "NAME": "Pascal Siakam",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "185",
+    "NAME": "Alex Len",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "186",
+    "NAME": "Jarrett Allen",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "187",
+    "NAME": "Kyle Anderson",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "188",
+    "NAME": "Nick Young",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "189",
+    "NAME": "Manu Ginobili",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "190",
+    "NAME": "Larry Nance Jr.",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "191",
+    "NAME": "JaMychal Green",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "192",
+    "NAME": "Jakob Poeltl",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "193",
+    "NAME": "Jarell Martin",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "194",
+    "NAME": "Raymond Felton",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "195",
+    "NAME": "Luke Kennard",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "196",
+    "NAME": "Marquese Chriss",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "197",
+    "NAME": "Bryn Forbes",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "198",
+    "NAME": "David Nwaba",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "199",
+    "NAME": "Delon Wright",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "200",
+    "NAME": "Paul Millsap",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "201",
+    "NAME": "Tyler Ulis",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "202",
+    "NAME": "Emmanuel Mudiay",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "203",
+    "NAME": "Ian Clark",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "204",
+    "NAME": "Kyle O'Quinn",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "205",
+    "NAME": "Marcus Smart",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "206",
+    "NAME": "Garrett Temple",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "207",
+    "NAME": "Rajon Rondo",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "208",
+    "NAME": "Andrew Harrison",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "209",
+    "NAME": "Dragan Bender",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "210",
+    "NAME": "Justise Winslow",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "211",
+    "NAME": "Lonzo Ball",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "212",
+    "NAME": "Greg Monroe",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "213",
+    "NAME": "Mason Plumlee",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "214",
+    "NAME": "Tomas Satoransky",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "215",
+    "NAME": "Skal Labissiere",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "216",
+    "NAME": "Tony Snell",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "217",
+    "NAME": "James Ennis III",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "218",
+    "NAME": "Mario Chalmers",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "219",
+    "NAME": "PJ Tucker",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "220",
+    "NAME": "Gerald Green",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "221",
+    "NAME": "Josh Hart",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "222",
+    "NAME": "David West",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "223",
+    "NAME": "Alec Burks",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "224",
+    "NAME": "Jodie Meeks",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "225",
+    "NAME": "Isaiah Thomas",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "226",
+    "NAME": "Aron Baynes",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "227",
+    "NAME": "T.J. McConnell",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "228",
+    "NAME": "Bam Adebayo",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "229",
+    "NAME": "Kosta Koufos",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "230",
+    "NAME": "Shelvin Mack",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "231",
+    "NAME": "Gorgui Dieng",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "232",
+    "NAME": "Bismack Biyombo",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "233",
+    "NAME": "Jarrett Jack",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "234",
+    "NAME": "Frank Ntilikina",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "235",
+    "NAME": "Trey Burke",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "236",
+    "NAME": "Luc Mbah a Moute",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "237",
+    "NAME": "Davis Bertans",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "238",
+    "NAME": "Nemanja Bjelica",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "239",
+    "NAME": "Justin Jackson",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "240",
+    "NAME": "Isaiah Taylor",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "241",
+    "NAME": "Pat Connaughton",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "242",
+    "NAME": "Tyler Zeller",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "243",
+    "NAME": "OG Anunoby",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "244",
+    "NAME": "Dion Waiters",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "245",
+    "NAME": "Jonas Jerebko",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "246",
+    "NAME": "Milos Teodosic",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "247",
+    "NAME": "Trevor Booker",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "248",
+    "NAME": "Ben McLemore",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "249",
+    "NAME": "Malik Monk",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "250",
+    "NAME": "Tony Parker",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "251",
+    "NAME": "Dante Cunningham",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "252",
+    "NAME": "Tyus Jones",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "253",
+    "NAME": "Ed Davis",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "254",
+    "NAME": "Frank Mason",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "255",
+    "NAME": "Quincy Acy",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "256",
+    "NAME": "Mike Muscala",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "257",
+    "NAME": "Tyler Dorsey",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "258",
+    "NAME": "Wesley Johnson",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "259",
+    "NAME": "Marreese Speights",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "260",
+    "NAME": "Zach LaVine",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "261",
+    "NAME": "Shaun Livingston",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "262",
+    "NAME": "Jabari Parker",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "263",
+    "NAME": "Maxi Kleber",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "264",
+    "NAME": "Maurice Harkless",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "265",
+    "NAME": "Norman Powell",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "266",
+    "NAME": "Andre Iguodala",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "267",
+    "NAME": "Corey Brewer",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "268",
+    "NAME": "Zaza Pachulia",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "269",
+    "NAME": "Joe Johnson",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "270",
+    "NAME": "Ian Mahinmi",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "271",
+    "NAME": "Deyonta Davis",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "272",
+    "NAME": "Langston Galloway",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "273",
+    "NAME": "Thon Maker",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "274",
+    "NAME": "Alex Abrines",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "275",
+    "NAME": "Royce O'Neale",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "276",
+    "NAME": "Amir Johnson",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "277",
+    "NAME": "Nene",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "278",
+    "NAME": "Malcolm Delaney",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "279",
+    "NAME": "Mike James",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "280",
+    "NAME": "Daniel Theis",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "281",
+    "NAME": "Sean Kilpatrick",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "282",
+    "NAME": "Wayne Selden",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "283",
+    "NAME": "Danilo Gallinari",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "284",
+    "NAME": "Patrick Patterson",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "285",
+    "NAME": "Vince Carter",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "286",
+    "NAME": "Quinn Cook",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "287",
+    "NAME": "Thabo Sefolosha",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "288",
+    "NAME": "Richaun Holmes",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "289",
+    "NAME": "JaVale McGee",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "290",
+    "NAME": "Cristiano Felicio",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "291",
+    "NAME": "Jerryd Bayless",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "292",
+    "NAME": "Tristan Thompson",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "293",
+    "NAME": "Sam Dekker",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "294",
+    "NAME": "Omri Casspi",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "295",
+    "NAME": "Tyson Chandler",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "296",
+    "NAME": "Timothe Luwawu-Cabarrot",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "297",
+    "NAME": "Lance Thomas",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "298",
+    "NAME": "Zach Collins",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "299",
+    "NAME": "Tyrone Wallace",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "300",
+    "NAME": "Chandler Parsons",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "301",
+    "NAME": "Sindarius Thornwell",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "302",
+    "NAME": "Treveon Graham",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "303",
+    "NAME": "Kevon Looney",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "304",
+    "NAME": "Channing Frye",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "305",
+    "NAME": "Noah Vonleh",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "306",
+    "NAME": "Jordan Bell",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "307",
+    "NAME": "Luke Babbitt",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "308",
+    "NAME": "Jose Calderon",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "309",
+    "NAME": "Cheick Diallo",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "310",
+    "NAME": "Al Jefferson",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "311",
+    "NAME": "Jameer Nelson",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "312",
+    "NAME": "Willy Hernangomez",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "313",
+    "NAME": "Michael Carter-Williams",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "314",
+    "NAME": "Cedi Osman",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "315",
+    "NAME": "Miles Plumlee",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "316",
+    "NAME": "Justin Anderson",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "317",
+    "NAME": "Boban Marjanovic",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "318",
+    "NAME": "Cody Zeller",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "319",
+    "NAME": "Jawun Evans",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "320",
+    "NAME": "Shane Larkin",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "321",
+    "NAME": "Patrick McCaw",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "322",
+    "NAME": "Wes Iwundu",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "323",
+    "NAME": "Joffrey Lauvergne",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "324",
+    "NAME": "Tyler Ennis",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "325",
+    "NAME": "Cameron Payne",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "326",
+    "NAME": "Paul Zipser",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "327",
+    "NAME": "Sterling Brown",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "328",
+    "NAME": "Dwight Buycks",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "329",
+    "NAME": "Salah Mejri",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "330",
+    "NAME": "Shabazz Muhammad",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "331",
+    "NAME": "C.J. Williams",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "332",
+    "NAME": "Derrick Rose",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "333",
+    "NAME": "Terrence Ross",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "334",
+    "NAME": "Joe Young",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "335",
+    "NAME": "Mike Conley",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "336",
+    "NAME": "Ivan Rabb",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "337",
+    "NAME": "Kobi Simmons",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "338",
+    "NAME": "Malik Beasley",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "339",
+    "NAME": "Semi Ojeleye",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "340",
+    "NAME": "Willie Reed",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "341",
+    "NAME": "Andre Roberson",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "342",
+    "NAME": "Terrance Ferguson",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "343",
+    "NAME": "Kenneth Faried",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "344",
+    "NAME": "Raul Neto",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "345",
+    "NAME": "Tyler Cavanaugh",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "346",
+    "NAME": "Damyean Dotson",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "347",
+    "NAME": "Nik Stauskas",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "348",
+    "NAME": "Tarik Black",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "349",
+    "NAME": "Arron Afflalo",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "350",
+    "NAME": "Khem Birch",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "351",
+    "NAME": "Jahlil Okafor",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "352",
+    "NAME": "Tim Frazier",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "353",
+    "NAME": "Dwayne Bacon",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "354",
+    "NAME": "Isaiah Canaan",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "355",
+    "NAME": "Johnny O'Bryant III",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "356",
+    "NAME": "Jason Terry",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "357",
+    "NAME": "Matthew Dellavedova",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "358",
+    "NAME": "Torrey Craig",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "359",
+    "NAME": "Ekpe Udoh",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "360",
+    "NAME": "Damion Lee",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "361",
+    "NAME": "Ivica Zubac",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "362",
+    "NAME": "Josh Huestis",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "363",
+    "NAME": "TJ Leaf",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "364",
+    "NAME": "Danuel House Jr.",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "365",
+    "NAME": "Jared Dudley",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "366",
+    "NAME": "Shaquille Harrison",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "367",
+    "NAME": "Antonio Blakeney",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "368",
+    "NAME": "Henry Ellenson",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "369",
+    "NAME": "Brandon Paul",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "370",
+    "NAME": "Abdel Nader",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "371",
+    "NAME": "Kawhi Leonard",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "372",
+    "NAME": "Jonathan Isaac",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "373",
+    "NAME": "Eric Moreland",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "374",
+    "NAME": "MarShon Brooks",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "375",
+    "NAME": "Brandan Wright",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "376",
+    "NAME": "DeAndre' Bembry",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "377",
+    "NAME": "Ramon Sessions",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "378",
+    "NAME": "Alex Caruso",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "379",
+    "NAME": "Luke Kornet",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "380",
+    "NAME": "Patrick Beverley",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "381",
+    "NAME": "Troy Williams",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "382",
+    "NAME": "Nerlens Noel",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "383",
+    "NAME": "Timofey Mozgov",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "384",
+    "NAME": "Dorian Finney-Smith",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "385",
+    "NAME": "Lucas Nogueira",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "386",
+    "NAME": "Ante Zizic",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "387",
+    "NAME": "Dante Exum",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "388",
+    "NAME": "Emeka Okafor",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "389",
+    "NAME": "Jason Smith",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "390",
+    "NAME": "Meyers Leonard",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "391",
+    "NAME": "Myke Henry",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "392",
+    "NAME": "Jamil Wilson",
+    "TEAMCODE": "LAC"
+},
+{
+    "ID": "393",
+    "NAME": "JaKarr Sampson",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "394",
+    "NAME": "Tony Allen",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "395",
+    "NAME": "DeAndre Liggins",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "396",
+    "NAME": "Kyle Collinsworth",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "397",
+    "NAME": "Isaiah Whitehead",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "398",
+    "NAME": "Markelle Fultz",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "399",
+    "NAME": "Johnathan Motley",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "400",
+    "NAME": "Rodney Purvis",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "401",
+    "NAME": "Glenn Robinson III",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "402",
+    "NAME": "Jordan Mickey",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "403",
+    "NAME": "Rodney McGruder",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "404",
+    "NAME": "Malachi Richardson",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "405",
+    "NAME": "Alec Peters",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "406",
+    "NAME": "Juancho Hernangomez",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "407",
+    "NAME": "Isaiah Hicks",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "408",
+    "NAME": "Guerschon Yabusele",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "409",
+    "NAME": "Jamel Artis",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "410",
+    "NAME": "Aaron Brooks",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "411",
+    "NAME": "Travis Wear",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "412",
+    "NAME": "Jalen Jones",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "413",
+    "NAME": "Brandon Jennings",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "414",
+    "NAME": "Mirza Teletovic",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "415",
+    "NAME": "Ron Baker",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "416",
+    "NAME": "Andrew White III",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "417",
+    "NAME": "Gary Payton II",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "418",
+    "NAME": "Rashad Vaughn",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "419",
+    "NAME": "Davon Reed",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "420",
+    "NAME": "Iman Shumpert",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "421",
+    "NAME": "Caleb Swanigan",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "422",
+    "NAME": "Derrick Jones Jr.",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "423",
+    "NAME": "Aaron Harrison",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "424",
+    "NAME": "Marcus Georges-Hunt",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "425",
+    "NAME": "Kay Felder",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "426",
+    "NAME": "Dakari Johnson",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "427",
+    "NAME": "Darrell Arthur",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "428",
+    "NAME": "Derrick White",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "429",
+    "NAME": "John Holland",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "430",
+    "NAME": "Bobby Brown",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "431",
+    "NAME": "Briante Weber",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "432",
+    "NAME": "Ryan Arcidiacono",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "433",
+    "NAME": "Chris McCullough",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "434",
+    "NAME": "Josh Magette",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "435",
+    "NAME": "Quincy Pondexter",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "436",
+    "NAME": "Brice Johnson",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "437",
+    "NAME": "Jon Leuer",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "438",
+    "NAME": "Jack Cooley",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "439",
+    "NAME": "Jabari Bird",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "440",
+    "NAME": "Malcolm Miller",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "441",
+    "NAME": "Wade Baldwin IV",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "442",
+    "NAME": "Andrew Bogut",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "443",
+    "NAME": "Georgios Papagiannis",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "444",
+    "NAME": "Jake Layman",
+    "TEAMCODE": "POR"
+},
+{
+    "ID": "445",
+    "NAME": "Jonathan Gibson",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "446",
+    "NAME": "Milton Doyle",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "447",
+    "NAME": "Damien Wilkins",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "448",
+    "NAME": "Jordan Crawford",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "449",
+    "NAME": "Josh Gray",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "450",
+    "NAME": "Lorenzo Brown",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "451",
+    "NAME": "Nick Collison",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "452",
+    "NAME": "Richard Jefferson",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "453",
+    "NAME": "Derrick Walton Jr.",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "454",
+    "NAME": "Solomon Hill",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "455",
+    "NAME": "Xavier Rathan-Mayes",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "456",
+    "NAME": "Jaylen Morris",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "457",
+    "NAME": "Nigel Hayes",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "458",
+    "NAME": "Alex Poythress",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "459",
+    "NAME": "Bruno Caboclo",
+    "TEAMCODE": "SAC"
+},
+{
+    "ID": "460",
+    "NAME": "Damian Jones",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "461",
+    "NAME": "Andre Ingram",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "462",
+    "NAME": "Antonius Cleveland",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "463",
+    "NAME": "Furkan Korkmaz",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "464",
+    "NAME": "Kyle Singler",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "465",
+    "NAME": "Omari Johnson",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "466",
+    "NAME": "Omer Asik",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "467",
+    "NAME": "Thomas Bryant",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "468",
+    "NAME": "Zhou Qi",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "469",
+    "NAME": "Adreian Payne",
+    "TEAMCODE": "ORL"
+},
+{
+    "ID": "470",
+    "NAME": "Alfonzo McKinnie",
+    "TEAMCODE": "TOR"
+},
+{
+    "ID": "471",
+    "NAME": "D.J. Wilson",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "472",
+    "NAME": "Alan Williams",
+    "TEAMCODE": "PHX"
+},
+{
+    "ID": "473",
+    "NAME": "Gian Clavell",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "474",
+    "NAME": "Okaro White",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "475",
+    "NAME": "Julyan Stone",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "476",
+    "NAME": "Kadeem Allen",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "477",
+    "NAME": "RJ Hunter",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "478",
+    "NAME": "Jeremy Lin",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "479",
+    "NAME": "Jameel Warney",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "480",
+    "NAME": "James Young",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "481",
+    "NAME": "Larry Drew II",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "482",
+    "NAME": "Walter Lemon Jr.",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "483",
+    "NAME": "Darrun Hilliard",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "484",
+    "NAME": "Demetrius Jackson",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "485",
+    "NAME": "James Webb III",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "486",
+    "NAME": "Jeff Withey",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "487",
+    "NAME": "Marshall Plumlee",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "488",
+    "NAME": "Ike Anigbogu",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "489",
+    "NAME": "Cole Aldrich",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "490",
+    "NAME": "Daniel Hamilton",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "491",
+    "NAME": "Joakim Noah",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "492",
+    "NAME": "Marcus Paige",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "493",
+    "NAME": "Marquis Teague",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "494",
+    "NAME": "David Stockton",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "495",
+    "NAME": "Monte Morris",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "496",
+    "NAME": "Georges Niang",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "497",
+    "NAME": "Joel Bolomboy",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "498",
+    "NAME": "Aaron Jackson",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "499",
+    "NAME": "James Michael McAdoo",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "500",
+    "NAME": "Mangok Mathiang",
+    "TEAMCODE": "CHA"
+},
+{
+    "ID": "501",
+    "NAME": "Tony Bradley",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "502",
+    "NAME": "Udonis Haslem",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "503",
+    "NAME": "London Perrantes",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "504",
+    "NAME": "Charles Cooke",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "505",
+    "NAME": "Vincent Hunter",
+    "TEAMCODE": "MEM"
+},
+{
+    "ID": "506",
+    "NAME": "Markel Brown",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "507",
+    "NAME": "Matt Williams Jr.",
+    "TEAMCODE": "MIA"
+},
+{
+    "ID": "508",
+    "NAME": "Chinanu Onuaku",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "509",
+    "NAME": "Jacob Wiley",
+    "TEAMCODE": "BKN"
+},
+{
+    "ID": "510",
+    "NAME": "Matt Costello",
+    "TEAMCODE": "SAS"
+},
+{
+    "ID": "511",
+    "NAME": "Tim Quarterman",
+    "TEAMCODE": "HOU"
+},
+{
+    "ID": "512",
+    "NAME": "Anthony Brown",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "513",
+    "NAME": "Kendrick Perkins",
+    "TEAMCODE": "CLE"
+},
+{
+    "ID": "514",
+    "NAME": "Naz Mitrou-Long",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "515",
+    "NAME": "Reggie Hearn",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "516",
+    "NAME": "Vander Blue",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "517",
+    "NAME": "Xavier Munford",
+    "TEAMCODE": "MIL"
+},
+{
+    "ID": "518",
+    "NAME": "Derrick Williams",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "519",
+    "NAME": "Devin Robinson",
+    "TEAMCODE": "WAS"
+},
+{
+    "ID": "520",
+    "NAME": "Edmond Sumner",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "521",
+    "NAME": "Gordon Hayward",
+    "TEAMCODE": "BOS"
+},
+{
+    "ID": "522",
+    "NAME": "Jacob Pullen",
+    "TEAMCODE": "PHI"
+},
+{
+    "ID": "523",
+    "NAME": "Jeremy Evans",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "524",
+    "NAME": "Josh Smith",
+    "TEAMCODE": "NOP"
+},
+{
+    "ID": "525",
+    "NAME": "Justin Patton",
+    "TEAMCODE": "MIN"
+},
+{
+    "ID": "526",
+    "NAME": "Luol Deng",
+    "TEAMCODE": "LAL"
+},
+{
+    "ID": "527",
+    "NAME": "Nate Wolters",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "528",
+    "NAME": "PJ Dozier",
+    "TEAMCODE": "OKC"
+},
+{
+    "ID": "529",
+    "NAME": "Scotty Hopson",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "530",
+    "NAME": "Ben Moore",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "531",
+    "NAME": "Chris Boucher",
+    "TEAMCODE": "GSW"
+},
+{
+    "ID": "532",
+    "NAME": "Erik McCree",
+    "TEAMCODE": "UTA"
+},
+{
+    "ID": "533",
+    "NAME": "Jarell Eddie",
+    "TEAMCODE": "CHI"
+},
+{
+    "ID": "534",
+    "NAME": "Josh McRoberts",
+    "TEAMCODE": "DAL"
+},
+{
+    "ID": "535",
+    "NAME": "Luis Montero",
+    "TEAMCODE": "DET"
+},
+{
+    "ID": "536",
+    "NAME": "Mindaugas Kuzminskas",
+    "TEAMCODE": "NYK"
+},
+{
+    "ID": "537",
+    "NAME": "Nicolas Brussino",
+    "TEAMCODE": "ATL"
+},
+{
+    "ID": "538",
+    "NAME": "Trey McKinney-Jones",
+    "TEAMCODE": "IND"
+},
+{
+    "ID": "539",
+    "NAME": "Tyler Lydon",
+    "TEAMCODE": "DEN"
+},
+{
+    "ID": "540",
+    "NAME": "Xavier Silas",
+    "TEAMCODE": "BOS"
+}
+]
