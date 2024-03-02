@@ -7,12 +7,18 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class NbaPlayersService {
+  // URL OF JSON / REST API SERVER
   url: string = `assets/NBAPlayers.json`;
 
+  // INJECT HTTP CLIENT IN CONSTRUCTOR
   constructor(private http: HttpClient) {}
 
-  // get the data from json file
+  // GET DATA FROM JSON FILE
   getNbaPlayers(): Observable<NbaPlayers[]> {
     return this.http.get<NbaPlayers[]>(this.url);
+  }
+  // POST DATA INTO JSON FILE
+  addNbaPlayer(nbaPlayer: NbaPlayers) {
+    return this.http.post<NbaPlayers>(this.url, nbaPlayer);
   }
 }
