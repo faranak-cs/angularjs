@@ -12,4 +12,5 @@ This repo consists of various angular components under the single project `hello
 9. Property Binding
 10. Pipes
 11. Forms
+12. HTTP Services
  
