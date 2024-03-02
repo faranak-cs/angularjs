@@ -6,6 +6,7 @@ import { MyButtonComponent } from './my-button/my-button.component';
 import { ClickedButtonComponent } from './clicked-button/clicked-button.component';
 import { EmployeeComponent } from './employee/employee.component';
 import { ContactFormComponent } from './contact-form/contact-form.component';
+import { FavouriteComponent } from './favourite/favourite.component';
 
 // metadata of component
 @Component({
@@ -19,6 +20,7 @@ import { ContactFormComponent } from './contact-form/contact-form.component';
     ClickedButtonComponent,
     EmployeeComponent,
     ContactFormComponent,
+    FavouriteComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
