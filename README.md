@@ -4,13 +4,12 @@ This repo consists of various angular components under the single project `hello
 1. Angular Setup
 2. Create a Component
 3. Template Interpolation
-4. @for Block
-5. @if Block
-6. Interfaces
-7. Services
-8. Dependency Injection
-9. Event Handling
-10. Passing Component Data with @Input()
-11. Property Binding
-12. Pipes
+4. @for, @if Blocks
+5. Interfaces
+6. Services & Dependency Injection
+7. Event Handling
+8. Passing Component Data with @Input()
+9. Property Binding
+10. Pipes
+11. Forms
  
