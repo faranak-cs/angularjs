@@ -7,10 +7,12 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class NbaPlayersService {
+  url: string = `assets/NBAPlayers.json`;
+
   constructor(private http: HttpClient) {}
 
   // get the data from json file
   getNbaPlayers(): Observable<NbaPlayers[]> {
-    return this.http.get<NbaPlayers[]>('assets/NBAPlayers.json');
+    return this.http.get<NbaPlayers[]>(this.url);
   }
 }
