@@ -1,5 +1,5 @@
-# AngularJS Project
-This repo consists of various angular components under the single project `hello-world` showcasing angular concepts.
+# AngularJS Basics
+This repo consists of angular components under the single project `hello-world` showcasing angular concepts.
 # Concepts
 1. Angular Setup
 2. Create a Component
@@ -12,4 +12,5 @@ This repo consists of various angular components under the single project `hello
 9. Property Binding
 10. Pipes
 11. Forms
+12. HTTP Services
  
