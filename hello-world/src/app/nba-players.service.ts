@@ -13,12 +13,16 @@ export class NbaPlayersService {
   // INJECT HTTP CLIENT IN CONSTRUCTOR
   constructor(private http: HttpClient) {}
 
-  // GET DATA FROM JSON FILE
+  // GET NBA PLAYERS
   getNbaPlayers(): Observable<NbaPlayers[]> {
     return this.http.get<NbaPlayers[]>(this.url);
   }
-  // POST DATA INTO JSON FILE
+  // ADD NEW PLAYER
   addNbaPlayer(nbaPlayer: NbaPlayers) {
     return this.http.post<NbaPlayers>(this.url, nbaPlayer);
+  }
+  // GET NBA PLAYER
+  getNbaPlayer(id: number): Observable<NbaPlayers> {
+    return this.http.get<NbaPlayers>(`${this.url}${id}`);
   }
 }

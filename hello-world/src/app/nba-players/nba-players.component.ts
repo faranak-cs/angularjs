@@ -2,11 +2,12 @@ import { Component, inject } from '@angular/core';
 import { NbaPlayers } from '../nba-players';
 import { NbaPlayersService } from '../nba-players.service';
 import { JsonPipe } from '@angular/common';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-nba-players',
   standalone: true,
-  imports: [JsonPipe],
+  imports: [JsonPipe, RouterLink, RouterOutlet],
   templateUrl: './nba-players.component.html',
   styleUrl: './nba-players.component.css',
 })
