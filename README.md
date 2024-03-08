@@ -13,4 +13,6 @@ This repo consists of angular components under the single project `hello-world` 
 10. Pipes
 11. Forms
 12. HTTP Services
+13. Navigation
+14. Routes
  
