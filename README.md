@@ -15,4 +15,8 @@ This repo consists of angular components under the single project `hello-world` 
 12. HTTP Services
 13. Navigation
 14. Routes
+# Version
+Angular CLI: 17.2.0 <br>
+Node: 20.11.0 <br>
+Package Manager: npm 10.2.4
  
