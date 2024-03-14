@@ -1,6 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
 import { ContactForm } from '../contact-form';
+import { TimerService } from '../timer.service';
 
 @Component({
   selector: 'app-contact-form',
@@ -21,11 +22,21 @@ export class ContactFormComponent {
     message: new FormControl(''),
   });
 
+  // inject timer service
+  timerService = inject(TimerService);
+
   // Send Button Handler
   onSubmit() {
     this.count++;
     const name = this.contactForm.value.name ?? '';
     const message = this.contactForm.value.message ?? '';
     this.msgs.push({ name: name, text: message, id: this.count });
+  }
+
+  onStart() {
+    this.timerService.start();
+  }
+  onReset() {
+    this.timerService.reset();
   }
 }

@@ -1,4 +1,12 @@
 <h1>Chat App</h1>
+<button (click)="onStart()">Start</button>
+<button (click)="onReset()">Reset</button>
+
+<h2>
+  Timer: {{ this.timerService.getHR() }}:{{ this.timerService.getMIN() }}:{{
+    this.timerService.getSEC()
+  }}:{{ this.timerService.getMS() }}
+</h2>
 <form [formGroup]="contactForm">
   <div class="form-group">
     <label for="name" class="form-label">Name</label>
