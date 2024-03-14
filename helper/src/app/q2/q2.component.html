@@ -1,1 +1,38 @@
-<p>q2 works!</p>
+<h1>Q2</h1>
+
+<label class="form-label"> Rank &lt;={{ sliderValue }} </label>
+<input
+  type="range"
+  class="form-range"
+  id="rank"
+  min="1"
+  max="10"
+  step="1"
+  [value]="10"
+  [(ngModel)]="sliderValue"
+  (change)="filterUsers(sliderValue)"
+/>
+<hr />
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Name [username]</th>
+      <th>Email</th>
+      <th>City</th>
+      <th>Company</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for(user of usersFiltered; track user.id){
+    <tr>
+      <td>{{ user.rank }}</td>
+      <td>{{ user.name }}</td>
+      <td>{{ user.email }}</td>
+      <td>{{ user.city }}</td>
+      <td>{{ user.company }}</td>
+    </tr>
+    }
+  </tbody>
+</table>
