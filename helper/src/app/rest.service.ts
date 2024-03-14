@@ -25,10 +25,15 @@ export class RestService {
     return this.http.get<Company[]>(this.url_company);
   }
 
-  // // ADD NEW PLAYER
-  // ad(nbaPlayer: NbaPlayers) {
-  //   return this.http.post<NbaPlayers>(this.url, nbaPlayer);
-  // }
+  // ADD NEW COMPANY
+  addCompany(company: Company) {
+    return this.http.post<Company>(`http://localhost:3000/company`, company);
+  }
+
+  // DELETE COMPANY
+  deleteCompany(name: string) {
+    return this.http.delete<Company>(`http://localhost:3000/company/${name}`);
+  }
 
   // get user
   getUser(id: string): Observable<User> {
