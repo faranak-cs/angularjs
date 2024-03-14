@@ -1,1 +1,56 @@
-<p>q1 works!</p>
+<h1>Q1</h1>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Description</th>
+      <th>Route</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Get users</td>
+      <td>
+        <a href="http://localhost:3000/users">/users</a>
+      </td>
+      <td></td>
+      <td>
+        <button (click)="onClickUsers()" class="btn btn-primary">Get</button>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Get companies</td>
+      <td>
+        <a href="http://localhost:3000/companies">/companies</a>
+      </td>
+      <td></td>
+      <td>
+        <button (click)="onClickCompanies()" class="btn btn-primary">
+          Get
+        </button>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Get user by ID</td>
+      <td>
+        <a href="http://localhost:3000/user/1">/user/1</a>
+      </td>
+      <td>
+        <input type="number" (keyup)="onKeyUp($event)" [defaultValue]="0" />
+      </td>
+      <td>
+        <button (click)="onClickUser()" class="btn btn-primary">Get</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<textarea id="textarea" class="form-control" rows="20" cols="100" readOnly v>
+  {{ users | json }}
+</textarea>
